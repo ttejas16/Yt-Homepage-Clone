@@ -1,8 +1,7 @@
-# React + Vite
+## Youtube homepage clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. create a empty dir and `cd` into that dir
+2. clone the project using `git clone https://github.com/ttejas16/Yt-Homepage-Clone.git .`
+3. run `npm install` to install the required dependencies
+4. run `npm run dev` to start the development server
+5. view the site at `http://localhost:5173/`
